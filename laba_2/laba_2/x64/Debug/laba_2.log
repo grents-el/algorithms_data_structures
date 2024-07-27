@@ -1,0 +1,5 @@
+﻿  laba_2.cpp
+C:\NEED\laba_2\laba_2\laba_2.cpp(115,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba_2.vcxproj -> C:\NEED\laba_2\x64\Debug\laba_2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
